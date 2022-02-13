@@ -1,0 +1,43 @@
+/*TAG Selectors*/
+body{
+  background-color: white;
+}
+
+h1{
+  background-color: #66BFBF ;
+}
+
+h3{
+  background-color: #66BFBF;
+}
+img:hover{
+  background-color: gold;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: auto;
+
+}
+/*CLASS Selectors*/
+.cd{
+  background-color: green;
+}
+
+.worldmap{
+  background-color: red;
+}
+.circular{
+  border-radius: 100%;
+}
+
+/*ID Selectors*/
+#heading1{
+  color: black;
+}
+#heading3{
+  color: black;
+}
